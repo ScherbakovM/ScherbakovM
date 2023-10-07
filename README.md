@@ -1,4 +1,4 @@
-# Привет! 👋
+# 👋 Привет! 
 
 Меня зовут Михаил, я вебразработчик.
 
@@ -16,7 +16,7 @@
 
 ## 📫 Как со мной связаться
 
-- Telegram [https://t.me/Mik_Shcherbakov]
+- [Telegram](https://t.me/Mik_Shcherbakov)
 
 ## ⭐ Моя статистика на GitHub
 
