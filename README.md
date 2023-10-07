@@ -1,16 +1,25 @@
-### Hi there 👋
+# Привет! 👋
 
-<!--
-**ScherbakovM/ScherbakovM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Михаил, я вебразработчик.
 
-Here are some ideas to get you started:
+## 🚀 Мои проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **website**: Вебсайт для компании занимающейся организацией праздников 1. [https://chernyanka-prazdnik.ru/]
+- **game**: игра крестики нолики 2. [http://horhe-delvega.ru/]
+
+## 📚 Мои навыки
+
+- **Языки программирования**:  JavaScript, Node JS
+- **Фреймворки/Библиотеки**: React, Express.js, Fabric js, Framer Motion, 
+- **Базы данных**: MySQL
+- **Инструменты разработки**: Git, Docker
+
+## 📫 Как со мной связаться
+
+- Telegram [https://t.me/Mik_Shcherbakov]
+
+## ⭐ Моя статистика на GitHub
+
+![GitHub stats]
+
+Спасибо за посещение моего профиля!
