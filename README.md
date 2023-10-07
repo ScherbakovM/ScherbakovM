@@ -18,3 +18,4 @@
 ##  Как со мной связаться
 
 - [Telegram](https://t.me/Mik_Shcherbakov)
+- [Вконтакте](https://vk.com/mikhail.scherbakov)
