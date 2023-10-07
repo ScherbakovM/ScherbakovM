@@ -21,6 +21,6 @@
 
 ## ⭐ Моя статистика на GitHub
 
-![ScherbakovM GitHub stats](https://github-readme-stats.vercel.app/api?username=ScherbakovM&theme=transparent&show_icons=true)  
+[![ScherbakovM GitHub stats](https://github-readme-stats.vercel.app/api?username=ScherbakovM)](https://github.com/ScherbakovM/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScherbakovM&layout=compact)
 Спасибо за посещение моего профиля!
