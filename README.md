@@ -21,6 +21,6 @@
 
 ## ⭐ Моя статистика на GitHub
 
-![ScherbakovM GitHub stats](https://github-readme-stats.vercel.app/api?username=ScherbakovM&theme=transparent&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![ScherbakovM GitHub stats](https://github-readme-stats.vercel.app/api?username=ScherbakovM&theme=transparent&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScherbakovM&hide_progress=true)  
 Спасибо за посещение моего профиля!
