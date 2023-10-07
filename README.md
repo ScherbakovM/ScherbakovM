@@ -21,6 +21,6 @@
 
 ## ⭐ Моя статистика на GitHub
 
-![GitHub stats]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ScherbakovM&theme=dark&show_icons=true)
 
 Спасибо за посещение моего профиля!
