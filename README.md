@@ -14,7 +14,7 @@
 - **Языки программирования**:  JavaScript, Node JS, Type Script
 - **Фреймворки/Библиотеки**: React, Express.js, Fabric js, Framer Motion 
 - **Базы данных**: MySQL
-- **Инструменты разработки**: Linux, Nginx, Docker, Git
+- **Инструменты разработки**: Linux, Nginx, Docker, Git, Figma
 
 ##  Как со мной связаться
 
