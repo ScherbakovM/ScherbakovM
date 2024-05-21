@@ -11,10 +11,10 @@
 
 ##  Мои навыки
 
-- **Языки программирования**:  JavaScript, Node JS, Type Script
-- **Фреймворки/Библиотеки**: React, ExpressJS, FabricJS, Framer Motion, AnimeJS
-- **Базы данных**: MySQL
-- **Инструменты разработки**: Linux, Nginx, Docker, Git, Figma
+- **Языки программирования**:  JavaScript, Node JS, Type Script.
+- **Фреймворки/Библиотеки**: React, ExpressJS, Gsap, FabricJS, Framer Motion, AnimeJS.
+- **Базы данных**: MySQL.
+- **Инструменты разработки**: Linux, Nginx, Docker, Git, Figma.
 
 ##  Как со мной связаться
 
