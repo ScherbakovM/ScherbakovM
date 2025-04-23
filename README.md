@@ -2,15 +2,7 @@
 
 Меня зовут Михаил, я вебразработчик.
 
-
-##  Мои проекты
--  Вебсайт для компании занимающейся организацией праздников  
- [chernyanka-prazdnik](https://chernyanka-prazdnik.ru)
-- Игра крестики нолики  
-  [tic-tac-toe](http://horhe-delvega.ru/)
-
 ##  Мои навыки
-
 - **Языки программирования**:  JavaScript, Node JS, Type Script.
 - **Фреймворки/Библиотеки**: React, ExpressJS, Gsap, FabricJS, Framer Motion, AnimeJS.
 - **Базы данных**: MySQL.
